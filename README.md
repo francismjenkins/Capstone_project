@@ -13,5 +13,5 @@ The last two digits in the column headers tells us whether a column contains exp
 Regular expressions were used to filter the data (and separate cancer from normal cells).  
 
 The original dataset has been log2 transformed and normalized, which reduces the number of steps needed to preprocess the data. 
-The analytics will be done using Bioconductor packages using the package rpy2 to call R from Python.
+The analytics will be done with Bioconductor packages using the package rpy2 to call R from Python.
 
