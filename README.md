@@ -13,5 +13,7 @@ The last two digits in the column headers tells us whether a column contains exp
 Regular expressions were used to separate the data into two dataframes (one containing expression values for tumor cells, the other containing expression values for normal cells). 
 
 The original dataset has been log2 transformed and normalized, which reduces the number of steps needed to preprocess the data. 
-The analytics will be done using pythonic techniques. Unfortunately, the presentation video file was too large to upload to Github. However, the presentation is available on youtube at the following URL: https://www.youtube.com/watch?v=OI7lrp9VqP4
+The analytics will be done using pythonic techniques. Unfortunately, the presentation video file was too large to upload to Github. However, the presentation is available on youtube at the following URL: 
+
+https://www.youtube.com/watch?v=OI7lrp9VqP4
 
